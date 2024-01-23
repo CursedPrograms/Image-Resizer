@@ -6,7 +6,7 @@
     <img class="workflow-badge workflow-success" src="https://github.com/Cursed-Entertainment/Image-Uploader-Resizer/actions/workflows/proof-html.yml/badge.svg" alt="Proof HTML Workflow">
 </a>
 
-# Cursed-Python-Template
+# Image-Resizer
 
 
 ```bash
